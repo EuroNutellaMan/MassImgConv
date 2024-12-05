@@ -1,5 +1,7 @@
 # MassImgConv
 
+This repository has been moved to [codeberg](https://codeberg.org/EuroNutellaMan/MassImgConv)
+
 Mass image converter and resizer that uses Pillow and PyQt6 to make images suitable for telegram stickers.
 
 ## Installation
